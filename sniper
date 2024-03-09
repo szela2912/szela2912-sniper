@@ -1,0 +1,1 @@
+git remote add origin https://github.com/szela2912/kali-tools-sniper.git git branch -M main git push -u origin main
